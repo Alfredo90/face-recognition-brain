@@ -5,7 +5,7 @@ import React from 'react'
 const ImageLinkForm = () => {
     return (
         <div >
-            <p className='f2 center '>
+            <p className='f3 center '>
                 {'This Magic Brain will detect faces in your pictures. Git it a try.'}
             </p>
             <div className='center' >
